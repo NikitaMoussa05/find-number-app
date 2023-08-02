@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "76C3BA25-6C3E-4965-A05F-9ADD9ABD7C7C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C6CA305-933C-4E3A-976A-4940ACF98554"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FindNumber/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "pressedButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C6CA305-933C-4E3A-976A-4940ACF98554 - 3ddc4360bcdc018b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindNumber.GameViewController.pressedButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FindNumber"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitamoussa/Documents/iosapps/FindNumber/FindNumber/FindNumber/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "4C6CA305-933C-4E3A-976A-4940ACF98554 - 3ddc4360bcdc01e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FindNumber.GameViewController.pressedButton(__C.UIButton) -&gt; ()"
+                  moduleName = "FindNumber"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikitamoussa/Documents/iosapps/FindNumber/FindNumber/FindNumber/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
